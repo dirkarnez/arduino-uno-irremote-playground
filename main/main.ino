@@ -3,6 +3,7 @@
 
 void setup()
 {
+  Serial.begin(9600);
   IrReceiver.begin(IR_RECEIVE_PIN, ENABLE_LED_FEEDBACK); // Start the receiver
 }
 
