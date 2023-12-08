@@ -1,6 +1,9 @@
 arduino-uno-irremote-playground
 ===============================
-[Arduino-IRremote/Arduino-IRremote: Infrared remote library for Arduino: send and receive infrared signals with multiple protocols](https://github.com/Arduino-IRremote/Arduino-IRremote)
+Working (5V, GND, Digital 7)
+
+### Using
+- [Arduino-IRremote/Arduino-IRremote: Infrared remote library for Arduino: send and receive infrared signals with multiple protocols](https://github.com/Arduino-IRremote/Arduino-IRremote)
 
 ### Reference
 - Old API
